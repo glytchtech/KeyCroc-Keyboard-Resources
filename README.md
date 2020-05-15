@@ -7,3 +7,5 @@ Keyboard used in this hack: https://amzn.to/3cuXjRh
 
 Wiring Diagram: 
 ![Wiring](https://github.com/glytchtech/KeyCroc-Keyboard-Resources/blob/master/Images/Pinout_wiring.jpg)
+
+Cables untwisted for illustrative purposes. Twist cables to avoid interference issues, especially if installing in a high-speed device. 
